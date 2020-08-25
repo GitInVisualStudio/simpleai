@@ -1,7 +1,6 @@
 import numpy as np
 import time
 from simpleai.utils import get_function
-from numba import njit
 import copy
 
 class Network:
